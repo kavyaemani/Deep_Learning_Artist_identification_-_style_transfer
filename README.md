@@ -1,4 +1,4 @@
-# Deep Learning Artist Identification & Style Transfer
+# Deep Learning Artist Identification & Style Transfer(Code was run using Northwestern MLDS' GPU cluster.)
 This project develops an end-to-end deep learning pipeline to automatically identify artists from their paintings and to perform art style transfer. Two main tasks are addressed:
 
 - Artist Identification: Classify paintings by 11 top artists (filtered from a dataset of 50) using a CNN-based approach.
